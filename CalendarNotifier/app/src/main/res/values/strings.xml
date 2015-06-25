@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">CalendarNotifier</string>
     <string name="search_title">Search</string>
+    <string name="remind_before">Remind of </string>
+    <string name="cancel_title">Cancel</string>
+    <string name="set_notification_title">Set all notifications</string>
+    <string name="detail_view_label">Notification settings</string>
+    <string-array name="days_notifier">
+        <item>1 day</item>
+        <item>7 days</item>
+        <item>14 days</item>
+        <item>21 days</item>
+        <item>1 month</item>
+    </string-array>
 </resources>
